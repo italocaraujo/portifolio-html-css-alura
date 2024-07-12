@@ -17,7 +17,7 @@ Um portfólio é uma coleção de trabalhos ou projetos que uma pessoa ou empres
 
 ## 📁 Acesso ao projeto
 
-Você pode [baixar](https://github.com/htaluss/portifolio-html-css-alura/archive/refs/heads/main.zip) o arquivo.
+Você pode acessar o [site](https://portifolio-html-css-alura-inky.vercel.app) do projeto ou [baixar](https://github.com/htaluss/portifolio-html-css-alura/archive/refs/heads/main.zip) o arquivo.
 
 ## 🛠️ Abrir e rodar o projeto
 
